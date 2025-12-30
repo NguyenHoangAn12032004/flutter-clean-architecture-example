@@ -1,5 +1,5 @@
-import 'package:rickmorty/layers/data/dto/character_dto.dart';
-import 'package:rickmorty/layers/data/dto/location_dto.dart';
+import 'package:rickmorty/data/models/character_dto.dart';
+import 'package:rickmorty/data/models/location_dto.dart';
 
 final characterDto = CharacterDto(
   id: 1,
